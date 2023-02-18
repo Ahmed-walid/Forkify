@@ -1,5 +1,5 @@
 import icons from '../../img/icons.svg'; // Parcel 2
-import { Fraction } from 'fractional';
+import fracty from "fracty";
 
 // common code to all views
 export default class View {
