@@ -2,4 +2,4 @@ node_modules
 dist
 .parcel-cache
 .prettierrc
-.src/js/config.js
+/src/js/config.js
